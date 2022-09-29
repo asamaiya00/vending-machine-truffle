@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.11;
 
 contract VendingMachine {
@@ -25,3 +26,4 @@ contract VendingMachine {
         donutBalances[msg.sender] += _numberOfDonuts;
     }
 }
+// 0xe521174f3ba253215577fb19502F4B2e12B0c15f
